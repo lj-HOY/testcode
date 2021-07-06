@@ -24,3 +24,4 @@ n = data['一般的图序'].value_counts() #ocean_proximity为属性标签
 print(b)
 print(g)
 print(n)
+print(abc)
